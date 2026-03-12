@@ -3,31 +3,23 @@ home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
 actions:
-  - text: Get Started
+  - text: 开始
     link: /get-started.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
-    type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: 关于服务器
+    details: 主要有一个按量付费面板服和阿里云容器实例，面板服标识为_AS_IP,阿里云容器实例标识为_BGP，没有持久化服务器
+  - title: 关于三方
+    details: 日常晚上8点左右游玩三方地图，三方地图文件在群内手动分发，相关信息请注意群聊，QQ群 468-667-221 (人工去掉分隔符)
+  - title: lerp设定
+    details: 受限于面板服糟糕的qos策略，因此面板服tick被设置成了32，推荐lerp 32+,阿里云服推荐lerp 64+
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: MIT Licensed 
+# footer: MIT Licensed | Copyright © 2018-present VuePress Community
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+<!-- This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page -->

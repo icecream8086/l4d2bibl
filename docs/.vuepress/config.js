@@ -11,7 +11,7 @@ export default defineUserConfig({
   description: '主要用于客户端命令行手册与管理员速览cfg定义, 点击 <<快速开始>> 速览命令手册',
 
   theme: defaultTheme({
-    logo: 'https://vuejs.press/images/hero.png',
+    logo: 'https://r2.hexgrid.ink/public/l4d2bibl/hero.png',
 
     navbar: [
       '/',

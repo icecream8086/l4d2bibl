@@ -16,11 +16,11 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: '参考条目',
+        text: '参考文章',
         link: '/article/',
       },
       {
-        text: '按插件',
+        text: '条目',
         link: '/category/',
       },
       {

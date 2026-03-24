@@ -5,7 +5,7 @@
 ## 启动参数
 
 ```bash
-xxx
+yyy
 ```
 
 todo...
